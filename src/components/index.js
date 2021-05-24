@@ -1,0 +1,5 @@
+export * from './Title'
+export * from './Home'
+export * from './About'
+export * from './Projects'
+export * from './Background'
